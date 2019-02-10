@@ -7,6 +7,21 @@
     "JUPYTER_NOTEBOOK_PASSWORD": {
       "description": "IMPORTANT! Set a secure password."
     },
+    "AWS_DEFAULT_REGION": {
+      "description": "AWS Region of the files",
+      "required": false,
+      "value": "us-east-1"
+    },
+    "AWS_ACCESS_KEY_ID": {
+      "description": "AWS Key ID",
+      "required": false,
+      "value": ""
+    },
+    "AWS_SECRET_ACCESS_KEY": {
+      "description": "AWS Key SECRET",
+      "required": false,
+      "value": ""
+    },
     "JUPYTER_NOTEBOOK_ARGS": {
       "description": "Additional command line arguments.",
       "required": false,
