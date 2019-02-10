@@ -25,9 +25,7 @@ dependencies:
     - pandas 
     - statsmodels 
     - matplotlib 
-    - seaborn 
-    - tensorflow 
-    - keras
+    - seaborn
     - pyarrow
     - boto3
     - s3fs
